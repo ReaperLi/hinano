@@ -1,3 +1,6 @@
 package hinano
 
-var X = 15
+var (
+	X    = 16
+	name = "hina"
+)
