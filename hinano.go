@@ -1,6 +1,6 @@
 package hinano
 
 var (
-	X    = 17
-	name = "hina"
+	X    = 18
+	name = "hinano"
 )
